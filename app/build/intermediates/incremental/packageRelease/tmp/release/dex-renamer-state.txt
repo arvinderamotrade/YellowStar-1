@@ -1,0 +1,7 @@
+#Sun Oct 23 15:18:15 IST 2022
+base.1=D\:\\Client_Projects\\AARAM\\Indiasolar\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\Client_Projects\\AARAM\\Indiasolar\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

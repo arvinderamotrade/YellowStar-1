@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.yellowstar">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:icon">
+        <activity
+            android:name="com.yellowstar.activity.LoginPage"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yellowstar.activity.DetailPending"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.DashBoard"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.Performance"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.CameraPreview"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.SplashScreen"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.SetLocationActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.ScannedBarcodeActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.OpenCamera"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yellowstar.activity.HomeScreen"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

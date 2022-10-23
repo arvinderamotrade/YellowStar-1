@@ -1,0 +1,28 @@
+D:\Client_Projects\AARAM\Indiasolar\app\src\main\res\layout\activity_main.xml:54: Error: Duplicate id @+id/ln, already defined earlier in this layout [DuplicateIds]
+      android:id="@+id/ln"
+      ~~~~~~~~~~~~~~~~~~~~
+    D:\Client_Projects\AARAM\Indiasolar\app\src\main\res\layout\activity_main.xml:10: Duplicate id @+id/ln originally defined here
+D:\Client_Projects\AARAM\Indiasolar\app\src\main\res\layout\activity_main.xml:70: Error: Duplicate id @+id/backBtn, already defined earlier in this layout [DuplicateIds]
+            android:id="@+id/backBtn"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~
+    D:\Client_Projects\AARAM\Indiasolar\app\src\main\res\layout\activity_main.xml:25: Duplicate id @+id/backBtn originally defined here
+
+   Explanation for issues of type "DuplicateIds":
+   Within a layout, id's should be unique since otherwise findViewById() can
+   return an unexpected view.
+
+D:\Client_Projects\AARAM\Indiasolar\app\src\main\AndroidManifest.xml:49: Error: This class should provide a default constructor (a public constructor with no arguments) (com.indiasolar.activity.CameraPreview) [Instantiatable]
+            android:name=".activity.CameraPreview"
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+D:\Client_Projects\AARAM\Indiasolar\app\src\main\AndroidManifest.xml:49: Error: CameraPreview must extend android.app.Activity [Instantiatable]
+            android:name=".activity.CameraPreview"
+                          ~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "Instantiatable":
+   Activities, services, broadcast receivers etc. registered in the manifest
+   file (or for custom views, in a layout file) must be "instantiatable" by
+   the system, which means that the class must be public, it must have an
+   empty public constructor, and if it's an inner class, it must be a static
+   inner class.
+
+4 errors, 0 warnings

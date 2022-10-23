@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <FrameLayout
+      android:id="@+id/camera_preview"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent" />
+
+  <ImageView
+      android:visibility="gone"
+      android:id="@+id/camera_output"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_centerInParent="true"
+      android:src="@color/white" />
+
+  <RelativeLayout
+      android:layout_width="@dimen/_40sdp"
+      android:layout_height="@dimen/_40sdp"
+      android:layout_marginStart="@dimen/_10sdp"
+      android:layout_marginTop="@dimen/_10sdp"
+      android:layout_marginEnd="@dimen/_10sdp"
+      android:layout_marginBottom="@dimen/_10sdp">
+
+    <ImageView
+        android:id="@+id/main_image_dial"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:contentDescription="@string/compass_dial"
+        android:src="@drawable/dial"
+        android:visibility="gone" />
+
+    <ImageView
+        android:visibility="gone"
+        android:id="@+id/main_image_hands"
+        android:layout_width="@dimen/_3sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/compass_hands"
+        android:scaleType="fitXY"
+        android:src="@drawable/hands" />
+  </RelativeLayout>
+
+  <TextView
+      android:id="@+id/txtLocation"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentRight="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginBottom="@dimen/_60sdp"
+      android:padding="@dimen/_10sdp"
+      android:text="Location"
+      android:textColor="@color/white"
+      android:textSize="@dimen/_14sdp" />
+  <LinearLayout
+      android:layout_alignParentBottom="true"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/_50sdp"
+      android:layout_margin="@dimen/_10sdp"
+      android:layout_gravity="center"
+      android:gravity="center">
+    <com.indiasolar.helper.CustomTV
+        android:id="@+id/button_capture"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_35sdp"
+        android:textStyle="bold"
+        android:textSize="@dimen/_16sdp"
+        android:text="@string/capture"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:background="@drawable/button_toolbar"/>
+  </LinearLayout>
+
+</RelativeLayout>

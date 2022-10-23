@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_280sdp"
+    android:layout_height="@dimen/_150sdp"
+    android:background="@drawable/white_back"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_5sdp"
+        android:text="Permissions Required!"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_16sdp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:text="Please Turn on some permissions."
+        android:textColor="@color/toolbarcolor"
+        android:textSize="@dimen/_14sdp"/>
+
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_yes"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:background="@drawable/button_toolbar"
+            android:clickable="true"
+            android:text="OK"
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/btn_no"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:background="@drawable/button_toolbar"
+            android:clickable="true"
+            android:text="No"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

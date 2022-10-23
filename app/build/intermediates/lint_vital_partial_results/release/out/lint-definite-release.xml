@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.2.1" type="incidents">
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="This class should provide a default constructor (a public constructor with no arguments) (`com.indiasolar.activity.CameraPreview`)">
+        <location
+            file="${:app*release*sourceProvider*0*manifest*0}"
+            line="49"
+            column="27"
+            startOffset="2232"
+            endLine="49"
+            endColumn="50"
+            endOffset="2255"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`CameraPreview` must extend android.app.Activity">
+        <location
+            file="${:app*release*sourceProvider*0*manifest*0}"
+            line="49"
+            column="27"
+            startOffset="2232"
+            endLine="49"
+            endColumn="50"
+            endOffset="2255"/>
+    </incident>
+
+    <incident
+        id="DuplicateIds"
+        severity="fatal"
+        message="Duplicate id `@+id/ln`, already defined earlier in this layout">
+        <location
+            file="${:app*release*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="54"
+            column="7"
+            startOffset="2209"
+            endLine="54"
+            endColumn="27"
+            endOffset="2229"/>
+        <location
+            file="${:app*release*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="10"
+            column="9"
+            startOffset="402"
+            endLine="10"
+            endColumn="29"
+            endOffset="422"
+            message="Duplicate id `@+id/ln` originally defined here"/>
+    </incident>
+
+    <incident
+        id="DuplicateIds"
+        severity="fatal"
+        message="Duplicate id `@+id/backBtn`, already defined earlier in this layout">
+        <location
+            file="${:app*release*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="70"
+            column="13"
+            startOffset="2802"
+            endLine="70"
+            endColumn="38"
+            endOffset="2827"/>
+        <location
+            file="${:app*release*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="25"
+            column="21"
+            startOffset="1036"
+            endLine="25"
+            endColumn="46"
+            endOffset="1061"
+            message="Duplicate id `@+id/backBtn` originally defined here"/>
+    </incident>
+
+</incidents>

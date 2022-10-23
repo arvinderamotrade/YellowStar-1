@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_inside_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\inside_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_button_grey.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\button_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-anydpi-v21_ic_pass.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-anydpi-v21\\ic_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_logout_icon_.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\logout_icon_.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxhdpi_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xxhdpi\\welcome_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_progress_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\progress_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_img1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\img1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_dash_list.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\dash_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_zoom_out.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-hdpi_no_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xhdpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_custom_dialoggps.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\custom_dialoggps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_email2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\email2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_home_screen.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_dropdown.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxhdpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_preview_demo.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_preview_demo.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_custom_dialog.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-ldpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-ldpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_zoom_in.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/drawable-hdpi_app_logo_trans.png.flat",
+        "source": "com.indiasolar.app-main-33:/drawable-hdpi/app_logo_trans.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_pending_data.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\pending_data.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_logout_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_scann_background.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\scann_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxxhdpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxxhdpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_dial.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\dial.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-anydpi-v21_lines.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-anydpi-v21\\lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_back_dash.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\back_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_rec.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\rec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_custom_logout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\custom_logout.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_banner.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_button_green.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\button_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_poll.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\poll.png"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_dash_list.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/dash_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_electric_pole.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\electric_pole.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_checklists.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\checklists.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_performance.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_performance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_rectangle_drop.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\rectangle_drop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_down_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\down_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_oval.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\oval.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_progress_dialog.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_icon3.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\icon3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-ldpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_down.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_progress_animation.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\progress_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-anydpi-v21_add.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-anydpi-v21\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_performance_list.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\performance_list.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_performance.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_performance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_outside.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\outside.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_submit_dialog.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/submit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxxhdpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_splash_screen.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/drawable-hdpi_white_back.jpg.flat",
+        "source": "com.indiasolar.app-main-33:/drawable-hdpi/white_back.jpg"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_scanned_barcode.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_scanned_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_key.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-hdpi_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-hdpi\\welcome_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_camera_preview.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_camera_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_icon2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_icon_dash.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\icon_dash.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_fade_out_fragment.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\fade_out_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_scan_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\scan_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-mdpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_submit_dialog.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\submit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxhdpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxhdpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_scanned_barcode.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_scanned_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_popup_show.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\popup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_progress_animation.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\progress_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_inside.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_detail_pending.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_detail_pending.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/drawable_button_toolbar.xml.flat",
+        "source": "com.indiasolar.app-main-33:/drawable/button_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/drawable_gradient_bg.xml.flat",
+        "source": "com.indiasolar.app-main-33:/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_welcome.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_back_arrow.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-hdpi_add.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_button_yellow.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\button_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\welcome_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_custom_logout.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/custom_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_up_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\up_.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_dash_board.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_icon1.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_dash_board.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_fade_in_fragment.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\fade_in_fragment.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.indiasolar.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-mdpi_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-mdpi\\welcome_image.png"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_performance_list.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/performance_list.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.indiasolar.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_hidden_eye.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\hidden_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-hdpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-hdpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_home_screen.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_key2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\key2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_icon4.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\icon4.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_view_eye.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\view_eye.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_pole.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\pole.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-mdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-mdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_rectangle_button.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\rectangle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-ldpi_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-ldpi\\welcome_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-hdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-hdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_fade.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_detail_pending.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_detail_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_popup_hide.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\popup_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_button_black.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\button_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_up.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_hands.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\hands.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-ldpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-ldpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-mdpi_lines.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-mdpi\\lines.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-pngs-27:\\drawable-xhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_outside_.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\outside_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_img2.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\img2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_button_blue.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\button_blue.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_activity_preview_demo.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/activity_preview_demo.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/drawable-hdpi_back_img.jpg.flat",
+        "source": "com.indiasolar.app-main-33:/drawable-hdpi/back_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable-xhdpi_welcome_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable-xhdpi\\welcome_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_qr_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\qr_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-merged_res-32:\\drawable_rectangle_dbutton.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.indiasolar.app-main-33:\\drawable\\rectangle_dbutton.xml"
+    },
+    {
+        "merged": "com.indiasolar.app-merged_res-32:/layout_custom_dialoggps.xml.flat",
+        "source": "com.indiasolar.app-main-33:/layout/custom_dialoggps.xml"
+    }
+]
